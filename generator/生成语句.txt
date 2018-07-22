@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b20cdb6a87f31f17958ca116b820388325210d1e
+java -jar mybatis-generator-core-1.3.2.jar -configfile generator.xml -overwrite
+
+##  生成语句必须放在generator文件夹下，才能生效！
